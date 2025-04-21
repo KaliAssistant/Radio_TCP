@@ -1,0 +1,23 @@
+{
+  "name" : "Radio_TCP",
+  "version" : "0.0.1",
+  "description" : "TCP-like wireless Transmission Contorl Protocol library for embedded devices.",
+  "keywords" : "radio, tcp, TCP, Transmission, layer4, v4",
+  "homepage" : "",
+  "repository":
+  {
+    "type" : "git",
+    "url" : "https://github.com/KaliAssistant/Radio_TCP.git",
+    "branch" : "main"
+  },
+  "authors" : 
+  {
+    "name" : "Kali Assistant",
+    "email" : "work.kaliassistant.github@gmail.com",
+    "maintainer" : true
+  },
+  "license" : "GPLv3.0",
+  "frameworks" : "*",
+  "platforms" : "*",
+  "headers" : "RadioTCP.h"
+}
